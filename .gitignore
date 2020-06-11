@@ -1,5 +1,23 @@
 /*/node_modules
+
 /*/package-lock.json
+/*/npm-debug.*
+
 /*/yarn-error.log
 /*/yarn.lock
+
+
+/*/.expo/*
+
+/*/*.jks
+/*/*.p8
+/*/*.p12
+/*/*.key
 /*/.env
+/*/*.mobileprovision
+/*/*.orig.*
+/*/web-build/
+/*/web-report/
+
+# macOS
+/*/.DS_Store
